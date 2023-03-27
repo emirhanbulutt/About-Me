@@ -15,11 +15,8 @@ I'm just a Software Developer who<br>wants to make useful products for<br>people
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=emirhancloud)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emirhanbulutt&icon=0&color=8)](https://visitcount.itsvg.in)
